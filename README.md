@@ -13,3 +13,8 @@ Ideal para consultar compatibilidad con Linux
 # CMD
 ```bash
 powershell -NoProfile -ExecutionPolicy Bypass -Command "iex (irm 'https://raw.githubusercontent.com/eyi3iyj3-svg/Escanear-Hardware-placa/main/Escanear-Hardware.bat')"
+```
+# PowerShell
+```bash
+iex (irm 'https://raw.githubusercontent.com/eyi3iyj3-svg/Escanear-Hardware-placa/main/Escanear-Hardware.bat')
+```
